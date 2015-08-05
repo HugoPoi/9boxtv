@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setupRequest>
+  <stbInfos op="sfr">
+    <sn>PS2C034201446400072</sn>
+    <mac>24950420B308</mac>
+    <hw>PS2C</hw>
+    <fw>13.2.20</fw>
+    <ink original="D23537C2B8000000" updated="" current="D23537C2B8000000"/>
+    <roomId>1</roomId>
+    <firstInstall>false</firstInstall>
+    <factoryReset>-</factoryReset>
+    <userSettingsReset>-</userSettingsReset>
+    <hdd>
+      <location>internal</location>
+      <maxSize>500.1</maxSize>
+      <quota>40.0</quota>
+      <sn>WD-WXE1E24AWU77</sn>
+    </hdd>
+    <ts>
+      <location>todo</location>
+      <maxSize>todo</maxSize>
+      <quota>todo</quota>
+    </ts>
+  </stbInfos>
+  <ca type="10" id="0748374152" nuid="b5a4dece" activeOps="1"/>
+  <iadInfos infra="ftth">
+    <maxBr>100000</maxBr>
+    <ipWan>77.132.47.85</ipWan>
+    <model>NEUFBOX6</model>
+  </iadInfos>
+  <qosInfos>
+    <id>OVRIRHxDQlYxLUNPLTUsQ0JWMS1DTy00fEZUVEg1Nnx8OTJjb20xLW5yby0xfHw5MmNvbTEtZ2EtMDN8fDc.</id>
+  </qosInfos>
+</setupRequest>
