@@ -3,8 +3,8 @@ user-agent = "libsetup/0.6.19 [SFR; SAGEM; 13.2.20]; c2203-4bel@sfr.fr"
 header = "Content-Type: text/xml"
 header = "Accept-Charset: iso-8859-1"
 header = "Accept: text/xml"
-#header = "Authorization: Token stbId=\"24950420b308\", sn=\"PS2C034201446400072\""
-header = "Token stbId=\"24950420b308\", algoId=32, keyId=96, nonce=\"fad8dc481b6a4c5cedaa74da1a6fdb33\", created=\"55c0dfdb\", sn=\"PS2C034201446400072\""
+#header = "Authorization: Token stbId=\"XXXXXXXXXXXX\", sn=\"YYYYYYYYYYYYYYYYYYY\""
+header = "Token stbId=\"XXXXXXXXXXXX\", algoId=32, keyId=96, nonce=\"fad8dc481b6a4c5cedaa74da1a6fdb33\", created=\"55c0dfdb\", sn=\"YYYYYYYYYYYYYYYYYYY\""
 data = @request_config.xml
 request = POST
 

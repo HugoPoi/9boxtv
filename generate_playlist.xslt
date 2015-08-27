@@ -7,16 +7,18 @@
     <xsl:value-of select="'&#35;EXTM3U'" />
     <xsl:value-of select="$break" />
 
-    <xsl:apply-templates select="setupResponse/services/service-list/service[dvb-ip]" />
+    <xsl:apply-templates select="setupResponse/services/service-list/service/dvb-ip" />
   </xsl:template>
 
-  <xsl:template match="service">
+  <xsl:template match="dvb-ip">
     <xsl:value-of select="'&#35;EXTINF:0,1 - '" />
-    <xsl:value-of select="name" />
+    <xsl:value-of select="parent::*/name" />
+    <xsl:value-of select="' - '" />
+    <xsl:value-of select="label" />
     <xsl:value-of select="$break" />
     <xsl:variable name="urlRtp">
       <xsl:call-template name="string-replace-all">
-        <xsl:with-param name="text" select="dvb-ip[@br = 2500]/url" />
+        <xsl:with-param name="text" select="url" />
         <xsl:with-param name="replace" select="'igmp://'" />
         <xsl:with-param name="by" select="'rtp://'" />
       </xsl:call-template>
@@ -24,9 +26,7 @@
 
     <xsl:value-of select="$urlRtp" />
 
-    <xsl:if test="following-sibling::*">
       <xsl:value-of select="$break" />
-    </xsl:if>
   </xsl:template>
 
 
