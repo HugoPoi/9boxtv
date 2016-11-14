@@ -3,7 +3,8 @@
 ## getConfig
 `curl --config get_config.curl -o channels_list.xml`
 
-1. Identifiant de connexion à remplacer
+1. Identifiant de connexion à remplacer (La dernière fois que j'ai
+   testé avec de la merde et c'est passé)
 stbid XXXXXXXXXX et SN YYYYYYYYYY sur l'étiquette arrière de votre box
 
 2. Effectuer une première requête qui renvoi le `nonce` dans les headers
@@ -29,6 +30,7 @@ identifier.
   flash samsung quel format ?
 * Trouver la clé / les clés de chiffrement AES?? des flux iptv, peut-être  stocké dans l'image firmware ?
 * Trouver des gens qui connaissent le fonctionnement du chiffrement IPTV
+* Plus d'update sur https://www.neufbox4.org/forum/viewtopic.php?pid=37650
 
 ## Message pour SFR
 
