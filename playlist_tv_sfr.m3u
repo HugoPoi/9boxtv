@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,1 - L'actu Club Vidéo - Standard
-rtp://233.49.82.12:7500/212
 #EXTINF:0,1 - TF1 - Fibre HD
 rtp://233.136.0.202:7500/202
 #EXTINF:0,1 - TF1 - Standard
@@ -41,9 +39,9 @@ rtp://233.136.0.58:7500/58
 rtp://233.60.197.83:7500/783
 #EXTINF:0,1 - TMC - Standard
 rtp://233.49.82.44:7500/244
-#EXTINF:0,1 - NT1 - HD
+#EXTINF:0,1 - TFX - HD
 rtp://233.60.197.84:7500/784
-#EXTINF:0,1 - NT1 - Standard
+#EXTINF:0,1 - TFX - Standard
 rtp://233.49.82.66:7500/266
 #EXTINF:0,1 - NRJ12 - Fibre HD
 rtp://233.136.0.218:7500/218
@@ -59,9 +57,9 @@ rtp://233.136.0.19:7500/4204
 rtp://233.136.0.217:7500/217
 #EXTINF:0,1 - BFM TV - Standard
 rtp://233.136.44.31:7500/4207
-#EXTINF:0,1 - i>Tele - HD
+#EXTINF:0,1 - CNews - HD
 rtp://233.49.82.147:65000/4814
-#EXTINF:0,1 - i>Tele - Standard
+#EXTINF:0,1 - CNews - Standard
 rtp://233.136.0.127:65000/4202
 #EXTINF:0,1 - CStar - HD
 rtp://233.49.82.114:65000/3110
@@ -75,21 +73,21 @@ rtp://233.49.82.165:7500/2165
 rtp://233.136.44.102:7500/4102
 #EXTINF:0,1 - France Ô - Standard
 rtp://233.136.0.158:65000/4223
-#EXTINF:0,1 - HD1 - Fibre HD
+#EXTINF:0,1 - TF1 Series-Films - Fibre HD
 rtp://233.136.0.205:7500/205
-#EXTINF:0,1 - HD1 - Standard
+#EXTINF:0,1 - TF1 Series-Films - Standard
 rtp://233.32.36.104:7500/3104
-#EXTINF:0,1 - L'équipe 21 - HD
+#EXTINF:0,1 - L’Equipe - HD
 rtp://233.136.44.155:7500/4155
-#EXTINF:0,1 - L'équipe 21 - Standard
+#EXTINF:0,1 - L’Equipe - Standard
 rtp://233.32.36.101:7500/3101
 #EXTINF:0,1 - 6ter - Fibre HD
 rtp://233.136.0.221:7500/13221
 #EXTINF:0,1 - 6ter - Standard
 rtp://233.60.197.1:7500/71
-#EXTINF:0,1 - Numéro 23 - Fibre HD
+#EXTINF:0,1 - RMC STORY - Fibre HD
 rtp://233.136.0.222:7500/222
-#EXTINF:0,1 - Numéro 23 - Standard
+#EXTINF:0,1 - RMC STORY - Standard
 rtp://233.60.197.2:7500/702
 #EXTINF:0,1 - RMC Découverte - Fibre HD
 rtp://233.136.0.223:7500/223
@@ -102,65 +100,105 @@ rtp://233.60.197.4:7500/704
 #EXTINF:0,1 - LCI - HD
 rtp://233.49.82.135:7500/2135
 #EXTINF:0,1 - LCI - Standard
-rtp://233.60.197.166:65000/4519
-#EXTINF:0,1 - BFM Sport - HD
+rtp://233.49.82.4:7500/1204
+#EXTINF:0,1 - franceinfo: - HD
+rtp://233.32.36.183:7500/3183
+#EXTINF:0,1 - franceinfo: - Standard
+rtp://233.60.197.28:7500/728
+#EXTINF:0,1 - i24 news - HD
+rtp://233.49.82.159:7500/159
+#EXTINF:0,1 - i24 news - Standard
+rtp://233.136.0.20:7500/20
+#EXTINF:0,1 - Chaines Locales - Standard
+rtp://233.136.44.67:7500/467
+#EXTINF:0,1 - RMC Sport 1 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport 2 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport 3 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport 4 - HD
+rtp://233.60.197.86:7500/786
+#EXTINF:0,1 - RMC Sport 4 - Standard
+rtp://233.136.44.38:7500/438
+#EXTINF:0,1 - RMC Sport News - HD
 rtp://233.60.197.90:7500/790
-#EXTINF:0,1 - BFM Sport - Standard
+#EXTINF:0,1 - RMC Sport News - Standard
 rtp://233.49.82.175:7500/175
-#EXTINF:0,1 - SFR Sport 1 - HD
-rtp://233.60.197.91:7500/791
-#EXTINF:0,1 - SFR Sport 1 - Standard
-rtp://233.49.82.176:7500/176
-#EXTINF:0,1 - SFR Sport 2 - HD
-rtp://233.60.197.92:7500/792
-#EXTINF:0,1 - SFR Sport 2 - Standard
-rtp://233.49.82.177:7500/177
-#EXTINF:0,1 - SFR Sport 3 - HD
-rtp://233.60.197.93:7500/793
-#EXTINF:0,1 - SFR Sport 3 - Standard
-rtp://233.49.82.178:7500/4534
-#EXTINF:0,1 - beIN SPORTS 1 - HD
-rtp://233.136.44.152:7500/4152
-#EXTINF:0,1 - beIN SPORTS 1 - Standard
-rtp://233.60.197.105:7500/805
-#EXTINF:0,1 - beIN SPORTS 2 - Standard
-rtp://233.60.197.100:7500/800
-#EXTINF:0,1 - beIN SPORTS 3 - Standard
-rtp://233.60.197.100:7500/800
-#EXTINF:0,1 - SFR Sport 4K - Standard
-rtp://233.60.197.51:7500/751
-#EXTINF:0,1 - SFR Sport 4K - UHD 4K
-rtp://233.49.82.200:7500/2200
-#EXTINF:0,1 - OCS Max - Standard
-rtp://233.49.82.95:7500/295
-#EXTINF:0,1 - OCS City - Standard
-rtp://233.49.82.95:7500/295
-#EXTINF:0,1 - OCS Choc - Standard
-rtp://233.49.82.95:7500/295
-#EXTINF:0,1 - OCS Geants - Standard
-rtp://233.49.82.95:7500/295
-#EXTINF:0,1 - Canal+ - HD
-rtp://233.136.44.179:7500/4179
-#EXTINF:0,1 - Canal+ - Standard
-rtp://233.32.36.122:7500/3122
-#EXTINF:0,1 - Canal+ Cinéma - Standard
-rtp://233.32.36.147:7500/3147
-#EXTINF:0,1 - Canal+ Sport - Standard
-rtp://233.32.36.124:7500/3124
-#EXTINF:0,1 - Canal+ Séries - Standard
-rtp://233.60.197.18:7500/718
-#EXTINF:0,1 - Canal+ Family - Standard
-rtp://233.32.36.148:7500/3148
-#EXTINF:0,1 - Canal+ Décalé - Standard
-rtp://233.32.36.146:7500/3146
-#EXTINF:0,1 - Canal+ à la demande - Standard
-rtp://233.136.0.172:65000/4427
-#EXTINF:0,1 - A VOIR CE SOIR - Standard
-rtp://233.60.197.157:65000/4520
-#EXTINF:0,1 - Canalplay - Standard
-rtp://233.60.197.150:65000/4539
-#EXTINF:0,1 - SFR Play - Standard
-rtp://233.32.36.4:7500/304
+#EXTINF:0,1 - RMC Sport 1 UHD - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - BFM Paris - HD
+rtp://233.60.197.64:7500/764
+#EXTINF:0,1 - BFM Paris - Standard
+rtp://233.32.36.80:7500/680
+#EXTINF:0,1 - Discovery Channel - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Discovery Science - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Discovery Family - HD
+rtp://233.49.82.77:7500/8277
+#EXTINF:0,1 - Discovery Family - Standard
+rtp://233.136.0.49:7500/6049
+#EXTINF:0,1 - Discovery Investigation - HD
+rtp://233.49.82.179:7500/2179
+#EXTINF:0,1 - Discovery Investigation - Standard
+rtp://233.32.36.97:7500/397
+#EXTINF:0,1 - My Cuisine - HD
+rtp://233.49.82.164:7500/164
+#EXTINF:0,1 - My Cuisine - Standard
+rtp://233.60.197.7:7500/707
+#EXTINF:0,1 - BFM Business - HD
+rtp://233.136.44.187:7500/4187
+#EXTINF:0,1 - BFM Business - Standard
+rtp://233.32.36.29:7500/329
+#EXTINF:0,1 - Euronews Fra - Standard
+rtp://233.32.36.166:7500/3166
+#EXTINF:0,1 - France 24 - Standard
+rtp://233.136.0.107:7500/107
+#EXTINF:0,1 - i24 news - HD
+rtp://233.49.82.159:7500/159
+#EXTINF:0,1 - i24 news - Standard
+rtp://233.136.0.20:7500/20
+#EXTINF:0,1 - Syfy - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - E! Entertainment - Standard
+rtp://233.32.36.160:7500/3160
+#EXTINF:0,1 - Discovery Investigation - HD
+rtp://233.49.82.179:7500/2179
+#EXTINF:0,1 - Discovery Investigation - Standard
+rtp://233.32.36.97:7500/397
+#EXTINF:0,1 - Discovery Family - HD
+rtp://233.49.82.77:7500/8277
+#EXTINF:0,1 - Discovery Family - Standard
+rtp://233.136.0.49:7500/6049
+#EXTINF:0,1 - My Cuisine - HD
+rtp://233.49.82.164:7500/164
+#EXTINF:0,1 - My Cuisine - Standard
+rtp://233.60.197.7:7500/707
+#EXTINF:0,1 - MTV - HD
+rtp://233.136.44.128:7500/128
+#EXTINF:0,1 - MTV - Standard
+rtp://233.136.0.61:7500/6061
+#EXTINF:0,1 - MCM - Standard
+rtp://233.32.36.160:7500/3160
+#EXTINF:0,1 - AB1 - Standard
+rtp://233.32.36.160:7500/3160
+#EXTINF:0,1 - Game One - Standard
+rtp://233.136.0.146:65000/4120
+#EXTINF:0,1 - Game One+1 - Standard
+rtp://233.60.197.114:7500/814
+#EXTINF:0,1 - J-One - HD
+rtp://233.136.44.131:7500/131
+#EXTINF:0,1 - J-One - Standard
+rtp://233.136.0.81:7500/8222
+#EXTINF:0,1 - BET - HD
+rtp://233.49.82.163:7500/163
+#EXTINF:0,1 - BET - Standard
+rtp://233.49.82.173:7500/8173
+#EXTINF:0,1 - Comedy Central - HD
+rtp://233.136.44.147:7500/147
+#EXTINF:0,1 - Comedy Central - Standard
+rtp://233.136.44.71:7500/471
 #EXTINF:0,1 - Paris Première - HD
 rtp://233.136.44.178:7500/4178
 #EXTINF:0,1 - Paris Première - Standard
@@ -173,90 +211,288 @@ rtp://233.136.0.60:7500/60
 rtp://233.60.197.78:7500/778
 #EXTINF:0,1 - RTL9 - Standard
 rtp://233.49.82.16:7500/216
-#EXTINF:0,1 - Game One - Standard
-rtp://233.136.0.146:65000/4120
-#EXTINF:0,1 - Game One+1 - Standard
-rtp://233.60.197.114:7500/814
-#EXTINF:0,1 - TV5 Monde - Standard
-rtp://233.136.0.125:65000/4111
 #EXTINF:0,1 - TV Breizh - Standard
 rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - AB1 - Standard
+#EXTINF:0,1 - TV5 Monde - Standard
+rtp://233.136.0.125:65000/4111
+#EXTINF:0,1 - TF1 + 1 - HD
+rtp://233.136.0.86:7500/86
+#EXTINF:0,1 - TF1 + 1 - Standard
+rtp://233.49.82.64:7500/264
+#EXTINF:0,1 - TMC + 1 - HD
+rtp://233.136.44.135:7500/135
+#EXTINF:0,1 - TMC + 1 - Standard
+rtp://233.49.82.96:7500/296
+#EXTINF:0,1 - SFR ACTU - Standard
 rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - MCM - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - BET - HD
-rtp://233.49.82.163:7500/163
-#EXTINF:0,1 - BET - Standard
-rtp://233.49.82.173:7500/8173
-#EXTINF:0,1 - E! Entertainment - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - MCS Maison - HD
-rtp://233.49.82.164:7500/164
-#EXTINF:0,1 - MCS Maison - Standard
-rtp://233.60.197.7:7500/707
-#EXTINF:0,1 - Les bouquets neufbox TV - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - BFM Paris - HD
-rtp://233.60.197.64:7500/764
-#EXTINF:0,1 - BFM Paris - Standard
-rtp://233.32.36.80:7500/680
-#EXTINF:0,1 - franceinfo: - HD
-rtp://233.32.36.183:7500/3183
-#EXTINF:0,1 - franceinfo: - Standard
-rtp://233.60.197.28:7500/728
-#EXTINF:0,1 - i24 news - HD
-rtp://233.49.82.159:7500/159
-#EXTINF:0,1 - i24 news - Standard
-rtp://233.136.0.20:7500/20
-#EXTINF:0,1 - France 24 - Standard
-rtp://233.136.0.107:7500/107
+#EXTINF:0,1 - BFM TV - Fibre HD
+rtp://233.136.0.217:7500/217
+#EXTINF:0,1 - BFM TV - Standard
+rtp://233.136.44.31:7500/4207
 #EXTINF:0,1 - BFM Business - HD
 rtp://233.136.44.187:7500/4187
 #EXTINF:0,1 - BFM Business - Standard
 rtp://233.32.36.29:7500/329
+#EXTINF:0,1 - BFM Paris - HD
+rtp://233.60.197.64:7500/764
+#EXTINF:0,1 - BFM Paris - Standard
+rtp://233.32.36.80:7500/680
+#EXTINF:0,1 - CNews - HD
+rtp://233.49.82.147:65000/4814
+#EXTINF:0,1 - CNews - Standard
+rtp://233.136.0.127:65000/4202
+#EXTINF:0,1 - LCI - HD
+rtp://233.49.82.135:7500/2135
+#EXTINF:0,1 - LCI - Standard
+rtp://233.49.82.4:7500/1204
+#EXTINF:0,1 - franceinfo: - HD
+rtp://233.32.36.183:7500/3183
+#EXTINF:0,1 - franceinfo: - Standard
+rtp://233.60.197.28:7500/728
+#EXTINF:0,1 - LCP - Standard
+rtp://233.49.82.46:7500/246
 #EXTINF:0,1 - LCP-AN 24/24 - Standard
 rtp://233.32.36.172:7500/3172
 #EXTINF:0,1 - Public Sénat - Standard
 rtp://233.32.36.32:7500/332
-#EXTINF:0,1 - Euronews Fra - Standard
-rtp://233.32.36.166:7500/3166
-#EXTINF:0,1 - Equidia Live - HD
-rtp://233.49.82.162:7500/8162
-#EXTINF:0,1 - Equidia Live - Standard
-rtp://233.136.0.135:65000/4117
-#EXTINF:0,1 - Equidia Life - Standard
-rtp://233.60.197.153:65000/4312
-#EXTINF:0,1 - Sport 365 TV - HD
-rtp://233.49.82.142:7500/2142
-#EXTINF:0,1 - Sport 365 TV - Standard
-rtp://233.60.197.113:7500/813
-#EXTINF:0,1 - MCS Bien-Etre - Standard
-rtp://233.49.82.26:7500/4307
-#EXTINF:0,1 - MCS TENNIS - HD
-rtp://233.49.82.160:7500/160
-#EXTINF:0,1 - MCS TENNIS - Standard
-rtp://233.136.0.71:7500/6071
-#EXTINF:0,1 - AB Moteurs - Standard
-rtp://233.136.44.115:7500/115
-#EXTINF:0,1 - Motors TV - Standard
-rtp://233.136.44.115:7500/115
-#EXTINF:0,1 - SFR Sport 5 - HD
+#EXTINF:0,1 - RMC Sport Access 1 - HD
+rtp://233.60.197.91:7500/791
+#EXTINF:0,1 - RMC Sport Access 1 - Standard
+rtp://233.49.82.176:7500/176
+#EXTINF:0,1 - RMC Sport Access 2 - HD
+rtp://233.60.197.92:7500/792
+#EXTINF:0,1 - RMC Sport Access 2 - Standard
+rtp://233.49.82.177:7500/177
+#EXTINF:0,1 - RMC Sport Access 3 - HD
+rtp://233.136.44.130:7500/4130
+#EXTINF:0,1 - RMC Sport Access 3 - Standard
+rtp://233.49.82.59:7500/259
+#EXTINF:0,1 - RMC Sport 4 - HD
 rtp://233.60.197.86:7500/786
-#EXTINF:0,1 - SFR Sport 5 - Standard
+#EXTINF:0,1 - RMC Sport 4 - Standard
 rtp://233.136.44.38:7500/438
+#EXTINF:0,1 - RMC Sport News - HD
+rtp://233.60.197.90:7500/790
+#EXTINF:0,1 - RMC Sport News - Standard
+rtp://233.49.82.175:7500/175
+#EXTINF:0,1 - RMC Sport 1 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport 2 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport 3 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport 4 - HD
+rtp://233.60.197.86:7500/786
+#EXTINF:0,1 - RMC Sport 4 - Standard
+rtp://233.136.44.38:7500/438
+#EXTINF:0,1 - beIN SPORTS 1 - HD
+rtp://233.136.44.152:7500/4152
+#EXTINF:0,1 - beIN SPORTS 1 - Standard
+rtp://233.60.197.105:7500/805
+#EXTINF:0,1 - beIN SPORTS 2 - Standard
+rtp://233.60.197.100:7500/800
+#EXTINF:0,1 - beIN SPORTS 3 - Standard
+rtp://233.60.197.100:7500/800
+#EXTINF:0,1 - Canal+ Sport - Standard
+rtp://233.32.36.124:7500/3124
+#EXTINF:0,1 - EQUIDIA - HD
+rtp://233.49.82.162:7500/8162
+#EXTINF:0,1 - EQUIDIA - Standard
+rtp://233.136.0.135:65000/4117
+#EXTINF:0,1 - RMC Sport 1 UHD - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - L’Equipe - HD
+rtp://233.136.44.155:7500/4155
+#EXTINF:0,1 - L’Equipe - Standard
+rtp://233.32.36.101:7500/3101
+#EXTINF:0,1 - TF1 4K - Standard
+rtp://233.49.82.2:7500/2002
+#EXTINF:0,1 - Sport en France - HD
+rtp://233.136.44.140:7500/140
+#EXTINF:0,1 - Sport en France - Standard
+rtp://233.136.0.103:7500/6103
 #EXTINF:0,1 - Trace Sport Stars - HD
 rtp://233.136.44.188:7500/4188
 #EXTINF:0,1 - Trace Sport Stars - Standard
 rtp://233.60.197.27:7500/727
-#EXTINF:0,1 - Golf Channel - Standard
-rtp://233.136.44.115:7500/115
-#EXTINF:0,1 - Girondins TV - Standard
-rtp://233.136.44.115:7500/115
-#EXTINF:0,1 - MyZen TV - Standard
-rtp://233.136.44.115:7500/115
-#EXTINF:0,1 - UFC PREMIUM - Standard
-rtp://233.136.0.81:7500/81
+#EXTINF:0,1 - OCS Max - Standard
+rtp://233.49.82.95:7500/295
+#EXTINF:0,1 - OCS City - Standard
+rtp://233.49.82.95:7500/295
+#EXTINF:0,1 - OCS Choc - Standard
+rtp://233.49.82.95:7500/295
+#EXTINF:0,1 - OCS Geants - Standard
+rtp://233.49.82.95:7500/295
+#EXTINF:0,1 - Ciné+ Premier - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Ciné+ Frisson - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Ciné+ Emotion - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Ciné+ Famiz - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Ciné+ Club - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Ciné+ Classic - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Canal+ - HD
+rtp://233.136.44.179:7500/4179
+#EXTINF:0,1 - Canal+ - Standard
+rtp://233.32.36.122:7500/3122
+#EXTINF:0,1 - Canal+ Cinéma - Standard
+rtp://233.32.36.147:7500/3147
+#EXTINF:0,1 - Canal+ Family - Standard
+rtp://233.32.36.148:7500/3148
+#EXTINF:0,1 - Canal+ Séries - Standard
+rtp://233.60.197.18:7500/718
+#EXTINF:0,1 - Canal+ Décalé - Standard
+rtp://233.32.36.146:7500/3146
+#EXTINF:0,1 - Canal à la demande - Standard
+rtp://233.136.0.172:65000/4427
+#EXTINF:0,1 - A LA UNE CANAL - Standard
+rtp://233.60.197.157:65000/4520
+#EXTINF:0,1 - Paramount Channel - HD
+rtp://233.49.82.152:7500/2152
+#EXTINF:0,1 - Paramount Channel - Standard
+rtp://233.60.197.188:65000/4231
+#EXTINF:0,1 - Paramount Channel Décalé - HD
+rtp://233.60.197.89:7500/789
+#EXTINF:0,1 - Paramount Channel Décalé - Standard
+rtp://233.49.82.174:7500/8174
+#EXTINF:0,1 - TCM Cinéma - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Action - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Sundance TV - Standard
+rtp://233.49.82.34:7500/234
+#EXTINF:0,1 - Discovery Channel - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Discovery Science - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - RMC Découverte - Fibre HD
+rtp://233.136.0.223:7500/223
+#EXTINF:0,1 - RMC Découverte - Standard
+rtp://233.60.197.3:7500/703
+#EXTINF:0,1 - Ushuaia TV - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - TREK - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Histoire - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Toute l'Histoire - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - KTO - Standard
+rtp://233.136.0.159:65000/4209
+#EXTINF:0,1 - Animaux - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Chasse et Pêche - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Science et Vie TV - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Luxe TV - HD
+rtp://233.136.44.183:7500/4183
+#EXTINF:0,1 - Luxe TV - Standard
+rtp://233.60.197.107:7500/807
+#EXTINF:0,1 - Fashion TV - HD
+rtp://233.136.0.84:7500/84
+#EXTINF:0,1 - Fashion TV - Standard
+rtp://233.136.0.57:7500/57
+#EXTINF:0,1 - Men's Up TV - Standard
+rtp://233.49.82.8:7500/208
+#EXTINF:0,1 - Astrocenter.tv - Standard
+rtp://233.32.36.106:7500/3106
+#EXTINF:0,1 - Nickelodeon Junior - HD
+rtp://233.136.44.132:7500/132
+#EXTINF:0,1 - Nickelodeon Junior - Standard
+rtp://233.136.0.21:7500/195
+#EXTINF:0,1 - Boomerang - Standard
+rtp://233.136.44.113:7500/113
+#EXTINF:0,1 - Boomerang+1 - Standard
+rtp://233.136.44.113:7500/113
+#EXTINF:0,1 - TIJI - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Baby TV - Standard
+rtp://233.136.44.113:7500/113
+#EXTINF:0,1 - Nickelodeon - HD
+rtp://233.136.44.133:7500/133
+#EXTINF:0,1 - Nickelodeon - Standard
+rtp://233.32.36.178:7500/165
+#EXTINF:0,1 - Nickelodeon+1 - HD
+rtp://233.136.44.134:7500/134
+#EXTINF:0,1 - Nickelodeon+1 - Standard
+rtp://233.32.36.179:7500/6179
+#EXTINF:0,1 - Gulli - HD
+rtp://233.49.82.165:7500/2165
+#EXTINF:0,1 - Gulli - Standard
+rtp://233.136.44.102:7500/4102
+#EXTINF:0,1 - Disney Channel - HD
+rtp://233.136.44.196:65000/4706
+#EXTINF:0,1 - Disney Channel - Standard
+rtp://233.136.0.173:65000/4403
+#EXTINF:0,1 - Disney Channel +1 - Standard
+rtp://233.136.0.181:65000/4404
+#EXTINF:0,1 - CANAL J - Standard
+rtp://233.136.44.113:7500/113
+#EXTINF:0,1 - Cartoon Network - Standard
+rtp://233.136.44.55:7500/5170
+#EXTINF:0,1 - Nickelodeon Teen - HD
+rtp://233.136.44.136:7500/136
+#EXTINF:0,1 - Nickelodeon Teen - Standard
+rtp://233.136.0.24:7500/8221
+#EXTINF:0,1 - Boing - Standard
+rtp://233.60.197.154:65000/4105
+#EXTINF:0,1 - TOONAMI - HD
+rtp://233.49.82.166:7500/166
+#EXTINF:0,1 - TOONAMI - Standard
+rtp://233.136.44.111:7500/111
+#EXTINF:0,1 - L'actu des jeux vidéo - Standard
+rtp://233.49.82.91:7500/291
+#EXTINF:0,1 - Mangas - Standard
+rtp://233.32.36.160:7500/3160
+#EXTINF:0,1 - GONG - Standard
+rtp://233.60.197.112:7500/812
+#EXTINF:0,1 - Ginx - Standard
+rtp://233.32.36.26:7500/326
+#EXTINF:0,1 - Enorme TV - Standard
+rtp://233.136.0.18:7500/18
+#EXTINF:0,1 - Lucky Jack - Standard
+rtp://233.49.82.51:7500/251
+#EXTINF:0,1 - MTV Hits - HD
+rtp://233.136.44.138:7500/138
+#EXTINF:0,1 - MTV Hits - Standard
+rtp://233.136.0.80:7500/8220
+#EXTINF:0,1 - W9 - Fibre HD
+rtp://233.136.0.219:7500/219
+#EXTINF:0,1 - W9 - Standard
+rtp://233.136.0.58:7500/58
+#EXTINF:0,1 - CStar - HD
+rtp://233.49.82.114:65000/3110
+#EXTINF:0,1 - CStar - Fibre
+rtp://233.49.82.114:65000/3110
+#EXTINF:0,1 - CStar - Standard
+rtp://233.136.0.150:65000/4121
+#EXTINF:0,1 - M6 Music - Standard
+rtp://233.136.0.92:7500/92
+#EXTINF:0,1 - RFM TV - Standard
+rtp://233.136.0.186:65000/4314
+#EXTINF:0,1 - NRJ Hits - HD
+rtp://233.136.44.166:7500/4166
+#EXTINF:0,1 - NRJ Hits - Standard
+rtp://233.32.36.11:65000/4527
+#EXTINF:0,1 - Mezzo - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Mezzo Live - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Trace TV - Standard
+rtp://233.32.36.160:7500/3160
+#EXTINF:0,1 - Trace Tropical - Standard
+rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - PEOPLE 24 - Standard
+rtp://233.32.36.5:7500/305
+#EXTINF:0,1 - M6 Boutique & co - Standard
+rtp://233.136.0.63:7500/63
+#EXTINF:0,1 - Best of shopping - Standard
+rtp://233.136.0.46:7500/46
 #EXTINF:0,1 - beIN SPORTS MAX 4 - Standard
 rtp://233.60.197.100:7500/800
 #EXTINF:0,1 - beIN SPORTS MAX 5 - Standard
@@ -271,206 +507,32 @@ rtp://233.60.197.100:7500/800
 rtp://233.60.197.100:7500/800
 #EXTINF:0,1 - beIN SPORTS MAX 10 - Standard
 rtp://233.60.197.100:7500/800
-#EXTINF:0,1 - Paramount Channel - HD
-rtp://233.49.82.152:7500/2152
-#EXTINF:0,1 - Paramount Channel - Standard
-rtp://233.60.197.188:65000/4231
-#EXTINF:0,1 - TCM Cinéma - HD
-rtp://233.136.44.162:65000/4717
-#EXTINF:0,1 - TCM Cinéma - Standard
-rtp://233.136.0.139:65000/4408
-#EXTINF:0,1 - Eurochannel - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Sundance Channel - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Ciné+ Premier - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Ciné+ Frisson - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Ciné+ Emotion - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Ciné+ Famiz - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Ciné+ Classic - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Ciné+ Club - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Action - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Polar - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Ciné Fx - Standard
-rtp://233.49.82.34:7500/234
-#EXTINF:0,1 - Paramount Channel Décalé - HD
-rtp://233.60.197.89:7500/789
-#EXTINF:0,1 - Paramount Channel Décalé - Standard
-rtp://233.49.82.174:7500/8174
-#EXTINF:0,1 - UniversCiné - Standard
-rtp://233.49.82.15:7500/215
-#EXTINF:0,1 - M6 Boutique & co - Standard
-rtp://233.136.0.63:7500/63
-#EXTINF:0,1 - TekTVShop - Standard
-rtp://233.32.36.117:7500/3117
-#EXTINF:0,1 - Best of shopping - Standard
-rtp://233.136.0.46:7500/46
-#EXTINF:0,1 - Disney Channel - HD
-rtp://233.136.44.196:65000/4706
-#EXTINF:0,1 - Disney Channel - Standard
-rtp://233.136.0.173:65000/4403
-#EXTINF:0,1 - Disney Channel +1 - Standard
-rtp://233.136.0.181:65000/4404
-#EXTINF:0,1 - Pop Pick Play - Standard
-rtp://233.49.82.38:7500/238
-#EXTINF:0,1 - CANAL J - Standard
-rtp://233.136.44.113:7500/113
-#EXTINF:0,1 - Télétoon+ - Standard
-rtp://233.136.44.113:7500/113
-#EXTINF:0,1 - Boomerang - Standard
-rtp://233.136.44.113:7500/113
-#EXTINF:0,1 - Boomerang+1 - Standard
-rtp://233.136.44.113:7500/113
-#EXTINF:0,1 - Boing - Standard
-rtp://233.136.44.113:7500/113
-#EXTINF:0,1 - TOONAMI - Standard
-rtp://233.136.44.113:7500/113
-#EXTINF:0,1 - Piwi+ - Standard
-rtp://233.136.44.113:7500/113
-#EXTINF:0,1 - Baby TV - Standard
-rtp://233.136.44.113:7500/113
-#EXTINF:0,1 - TIJI - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - GONG - Standard
-rtp://233.60.197.112:7500/812
-#EXTINF:0,1 - Mangas - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - GONG MAX - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - KZTV - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - M6 Music - Standard
-rtp://233.136.0.92:7500/92
-#EXTINF:0,1 - NRJ Hits - HD
-rtp://233.136.44.166:7500/4166
-#EXTINF:0,1 - NRJ Hits - Standard
-rtp://233.32.36.11:65000/4527
-#EXTINF:0,1 - L'actu des jeux vidéo - Standard
+#EXTINF:0,1 - RMC Sport Live 5 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 6 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 7 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 8 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 9 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 10 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 11 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 12 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 13 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 14 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 15 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - RMC Sport Live 16 - Standard
+rtp://233.136.44.53:7500/4453
+#EXTINF:0,1 - Jeux vidéo - Standard
 rtp://233.49.82.91:7500/291
-#EXTINF:0,1 - Virgin radio TV - Standard
-rtp://233.60.197.6:7500/976
-#EXTINF:0,1 - J4T - Standard
-rtp://233.32.36.5:7500/305
-#EXTINF:0,1 - Clubbing TV - Standard
-rtp://233.49.82.50:7500/250
-#EXTINF:0,1 - OFive.TV - Standard
-rtp://233.49.82.48:7500/248
-#EXTINF:0,1 - Deluxe Music HD - HD
-rtp://233.49.82.79:7500/279
-#EXTINF:0,1 - iConcerts - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - MCM TOP - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - RFM TV - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - Trace TV - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - Trace Tropical - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - C-music - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - Mezzo - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - Mezzo Live - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - Brava TV - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - Enorme TV - Standard
-rtp://233.136.0.18:7500/18
-#EXTINF:0,1 - NOLIFE - HD
-rtp://233.136.44.169:7500/4169
-#EXTINF:0,1 - NOLIFE - Standard
-rtp://233.136.0.21:7500/21
-#EXTINF:0,1 - Ma Chaine Etudiante - Standard
-rtp://233.32.36.54:7500/354
-#EXTINF:0,1 - Luxe TV - HD
-rtp://233.136.44.183:7500/4183
-#EXTINF:0,1 - Luxe TV - Standard
-rtp://233.60.197.107:7500/807
-#EXTINF:0,1 - Men's Up TV - Standard
-rtp://233.49.82.8:7500/208
-#EXTINF:0,1 - Lucky Jack - Standard
-rtp://233.49.82.51:7500/251
-#EXTINF:0,1 - Ginx - Standard
-rtp://233.32.36.26:7500/326
-#EXTINF:0,1 - Astrocenter.tv - Standard
-rtp://233.32.36.106:7500/3106
-#EXTINF:0,1 - TNA - Standard
-rtp://233.32.36.44:7500/344
-#EXTINF:0,1 - Fashion TV - HD
-rtp://233.136.0.84:7500/84
-#EXTINF:0,1 - Fashion TV - Standard
-rtp://233.136.0.57:7500/57
-#EXTINF:0,1 - The Museum Channel - Standard
-rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - NATIONAL GEOGRAPHIQUE - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - VOYAGE - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - Ushuaia TV - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - Histoire - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - Toute l'Histoire - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - TREK - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - Animaux - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - Chasse et Pêche - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - Science et Vie TV - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - NAT GEO WILD - Standard
-rtp://233.32.36.170:7500/3170
-#EXTINF:0,1 - KTO - Standard
-rtp://233.136.0.159:65000/4209
-#EXTINF:0,1 - Campagnes TV  - HD
-rtp://233.136.44.167:7500/4167
-#EXTINF:0,1 - Campagnes TV  - Standard
-rtp://233.49.82.93:7500/293
-#EXTINF:0,1 - TV8 Mont-Blanc - Standard
-rtp://233.136.0.72:7500/72
-#EXTINF:0,1 - BBC World News - Standard
-rtp://233.136.0.44:7500/44
-#EXTINF:0,1 - CNN International - Standard
-rtp://233.136.0.131:65000/4114
-#EXTINF:0,1 - France 24 ENG - Standard
-rtp://233.49.82.94:7500/294
-#EXTINF:0,1 - Sky News - Standard
-rtp://233.136.0.70:7500/70
-#EXTINF:0,1 - CNBC - Standard
-rtp://233.60.197.167:65000/4502
-#EXTINF:0,1 - Bloomberg PAN-European - Standard
-rtp://233.136.0.48:7500/48
-#EXTINF:0,1 - Al Jazeera English - Standard
-rtp://233.136.0.39:7500/39
-#EXTINF:0,1 - Al Jazeera - Standard
-rtp://233.136.0.163:65000/4210
-#EXTINF:0,1 - France 24 ARA - Standard
-rtp://233.49.82.29:7500/229
-#EXTINF:0,1 - Medi1TV - Standard
-rtp://233.32.36.43:7500/343
-#EXTINF:0,1 - Africa 24 - Standard
-rtp://233.32.36.50:7500/350
-#EXTINF:0,1 - NHK World - HD
-rtp://233.136.44.182:7500/4182
-#EXTINF:0,1 - NHK World - Standard
-rtp://233.49.82.62:7500/262
-#EXTINF:0,1 - i24 News Anglais - Standard
-rtp://233.60.197.41:7500/741
-#EXTINF:0,1 - DW-TV  - Standard
-rtp://233.136.0.54:7500/54
-#EXTINF:0,1 - i24 News Arabe - Standard
-rtp://233.136.0.93:7500/6093
 #EXTINF:0,1 - France 3 - Fibre HD
 rtp://233.136.0.200:7500/200
 #EXTINF:0,1 - France 3 - Standard
@@ -571,157 +633,185 @@ rtp://233.32.36.65:7500/365
 rtp://233.60.197.94:7500/364
 #EXTINF:0,1 - F3 Rhône-Alpes - Standard
 rtp://233.32.36.64:7500/364
-#EXTINF:0,1 - Noot TV - Standard
-rtp://233.136.0.103:7500/103
-#EXTINF:0,1 - Tropik TV - Standard
-rtp://233.49.82.59:7500/259
-#EXTINF:0,1 - IDF1 - Standard
-rtp://233.32.36.28:7500/328
+#EXTINF:0,1 - France 3 Nouvelle Aquitaine - HD
+rtp://233.32.36.24:7500/324
+#EXTINF:0,1 - France 3 Nouvelle Aquitaine - Standard
+rtp://233.136.44.57:7500/57
 #EXTINF:0,1 - Canal 21 - Standard
 rtp://233.32.36.30:7500/330
-#EXTINF:0,1 - La Locale - Standard
-rtp://233.136.0.2:7500/2
-#EXTINF:0,1 - Télif - Standard
-rtp://233.136.0.36:7400/13636
-#EXTINF:0,1 - TV Fil 78 - Standard
-rtp://233.32.36.165:7500/3165
-#EXTINF:0,1 - TV Tours - Standard
-rtp://233.60.197.36:7500/736
-#EXTINF:0,1 - TéléPlaisance - Standard
-rtp://233.49.82.41:7500/8241
+#EXTINF:0,1 - IDF1 - Standard
+rtp://233.32.36.28:7500/328
 #EXTINF:0,1 - Télé Bocal - Standard
 rtp://233.60.197.13:7500/713
+#EXTINF:0,1 - VIA GRAND PARIS - Standard
+rtp://233.136.0.36:7400/13636
+#EXTINF:0,1 - TV78 - HD
+rtp://233.136.44.169:7500/4169
+#EXTINF:0,1 - TV78 - Standard
+rtp://233.32.36.165:7500/3165
+#EXTINF:0,1 - Télé Grenoble - Standard
+rtp://233.49.82.101:7500/2101
+#EXTINF:0,1 - TL7 - Standard
+rtp://233.32.36.8:7500/308
+#EXTINF:0,1 - TLM - Standard
+rtp://233.32.36.162:7500/3162
+#EXTINF:0,1 - 8 Mont Blanc - Standard
+rtp://233.136.0.72:7500/72
+#EXTINF:0,1 - Grand Lille TV - Standard
+rtp://233.32.36.111:7500/3111
+#EXTINF:0,1 - GrandLittoral.TV - Standard
+rtp://233.60.197.58:7500/758
+#EXTINF:0,1 - Weo - Standard
+rtp://233.32.36.105:7500/3105
+#EXTINF:0,1 - TV7 Bordeaux - Standard
+rtp://233.49.82.53:7500/253
+#EXTINF:0,1 - TVPI - Standard
+rtp://233.136.44.116:7500/116
+#EXTINF:0,1 - vià30 - Standard
+rtp://233.49.82.28:7500/228
+#EXTINF:0,1 - vià34 - Standard
+rtp://233.60.197.12:7500/712
+#EXTINF:0,1 - Alsace 20 - Standard
+rtp://233.136.0.96:7500/96
+#EXTINF:0,1 - Canal 32 - Standard
+rtp://233.32.36.6:7500/306
+#EXTINF:0,1 - VIA Mirabelle - Standard
+rtp://233.49.82.49:7500/249
+#EXTINF:0,1 - TV Cristal - Standard
+rtp://233.32.36.102:7500/3102
+#EXTINF:0,1 - TV Mosaik - Standard
+rtp://233.60.197.57:7500/757
+#EXTINF:0,1 - TV8 Moselle-Est - Standard
+rtp://233.49.82.35:7500/235
+#EXTINF:0,1 - VIA Vosges - Standard
+rtp://233.60.197.14:7500/714
+#EXTINF:0,1 - Azur TV - Standard
+rtp://233.60.197.19:7500/719
+#EXTINF:0,1 - DICI TV ALPES - Standard
+rtp://233.60.197.59:7500/759
+#EXTINF:0,1 - Maritima TV - Standard
+rtp://233.49.82.3:7500/203
+#EXTINF:0,1 - DICI TV PROVENCE - Standard
+rtp://233.136.44.114:7500/114
+#EXTINF:0,1 - Angers télé - Standard
+rtp://233.49.82.33:7500/233
+#EXTINF:0,1 - Télé Nantes - Standard
+rtp://233.49.82.36:7500/236
 #EXTINF:0,1 - TV Vendée - Standard
 rtp://233.60.197.44:7500/744
 #EXTINF:0,1 - La chaîne normande - Standard
 rtp://233.60.197.35:7500/735
-#EXTINF:0,1 - Angers télé - Standard
-rtp://233.49.82.33:7500/233
-#EXTINF:0,1 - Canal 32 - Standard
-rtp://233.32.36.6:7500/306
-#EXTINF:0,1 - Télé Nantes - Standard
-rtp://233.49.82.36:7500/236
-#EXTINF:0,1 - Alsace 20 - Standard
-rtp://233.136.0.96:7500/96
-#EXTINF:0,1 - Mirabelle TV - Standard
-rtp://233.49.82.49:7500/249
-#EXTINF:0,1 - Vosges Télévision - Standard
-rtp://233.60.197.14:7500/714
-#EXTINF:0,1 - TV8 Moselle-Est - Standard
-rtp://233.49.82.35:7500/235
-#EXTINF:0,1 - TV Mosaik - Standard
-rtp://233.60.197.57:7500/757
-#EXTINF:0,1 - Weo - Standard
-rtp://233.32.36.105:7500/3105
-#EXTINF:0,1 - Grand Lille TV - Standard
-rtp://233.32.36.111:7500/3111
-#EXTINF:0,1 - TV Cristal - Standard
-rtp://233.32.36.102:7500/3102
-#EXTINF:0,1 - TV Valenciennes - Standard
-rtp://233.136.44.74:7500/74
-#EXTINF:0,1 - TL7 - Standard
-rtp://233.32.36.8:7500/308
-#EXTINF:0,1 - DICI TV - Standard
-rtp://233.60.197.59:7500/759
-#EXTINF:0,1 - TLM - Standard
-rtp://233.32.36.162:7500/3162
-#EXTINF:0,1 - Azur TV - Standard
-rtp://233.60.197.19:7500/719
-#EXTINF:0,1 - Maritima TV - Standard
-rtp://233.49.82.3:7500/203
-#EXTINF:0,1 - TV SUD Camargues Cévennes - Standard
-rtp://233.49.82.28:7500/228
-#EXTINF:0,1 - TV Sud Montpellier - Standard
-rtp://233.60.197.12:7500/712
-#EXTINF:0,1 - TV7 Bordeaux - Standard
-rtp://233.49.82.53:7500/253
-#EXTINF:0,1 - Telim - Standard
-rtp://233.60.197.115:7500/815
+#EXTINF:0,1 - TV Tours - Standard
+rtp://233.60.197.36:7500/736
 #EXTINF:0,1 - Télé Paese - Standard
 rtp://233.32.36.40:7500/640
+#EXTINF:0,1 - vià31 - Standard
+rtp://233.49.82.93:7500/293
+#EXTINF:0,1 - vià66 - Standard
+rtp://233.60.197.29:7500/729
+#EXTINF:0,1 - CNN International - Standard
+rtp://233.136.0.131:65000/4114
+#EXTINF:0,1 - BBC World News - Standard
+rtp://233.136.0.44:7500/44
+#EXTINF:0,1 - France 24 ENG - Standard
+rtp://233.49.82.94:7500/294
+#EXTINF:0,1 - CNBC - Standard
+rtp://233.60.197.167:65000/4502
+#EXTINF:0,1 - Bloomberg PAN-European - Standard
+rtp://233.136.0.48:7500/48
+#EXTINF:0,1 - Al Jazeera English - Standard
+rtp://233.136.0.39:7500/39
+#EXTINF:0,1 - i24 News Anglais - Standard
+rtp://233.60.197.41:7500/741
+#EXTINF:0,1 - NHK WORLD-JAPAN - HD
+rtp://233.136.44.182:7500/4182
+#EXTINF:0,1 - NHK WORLD-JAPAN - Standard
+rtp://233.49.82.62:7500/262
+#EXTINF:0,1 - Sky News - Standard
+rtp://233.136.0.70:7500/70
+#EXTINF:0,1 - i24 News Arabe - Standard
+rtp://233.136.0.93:7500/6093
+#EXTINF:0,1 - France 24 ARA - Standard
+rtp://233.49.82.29:7500/229
+#EXTINF:0,1 - Al Jazeera - Standard
+rtp://233.136.0.163:65000/4210
+#EXTINF:0,1 - Medi1TV - Standard
+rtp://233.32.36.43:7500/343
+#EXTINF:0,1 - 24h TVE - Standard
+rtp://233.136.0.87:7500/87
+#EXTINF:0,1 - TVE - Standard
+rtp://233.136.0.73:7500/73
+#EXTINF:0,1 - DW-TV  - Standard
+rtp://233.136.0.54:7500/54
+#EXTINF:0,1 - CGTN - Standard
+rtp://233.49.82.7:7500/207
+#EXTINF:0,1 - Africa 24 - Standard
+rtp://233.32.36.50:7500/350
+#EXTINF:0,1 - RTPI - Standard
+rtp://233.136.0.167:65000/4212
+#EXTINF:0,1 - TVE - Standard
+rtp://233.136.0.73:7500/73
+#EXTINF:0,1 - ETB SAT - Standard
+rtp://233.32.36.82:7500/382
+#EXTINF:0,1 - 24h TVE - Standard
+rtp://233.136.0.87:7500/87
+#EXTINF:0,1 - Arte Allemand - Standard
+rtp://233.136.0.77:7500/77
+#EXTINF:0,1 - Armenia 1 - Standard
+rtp://233.32.36.151:7500/3151
+#EXTINF:0,1 - Armenia TV - Standard
+rtp://233.32.36.150:7500/3150
+#EXTINF:0,1 - RTR Planeta - Standard
+rtp://233.136.0.69:7500/69
+#EXTINF:0,1 - TV Romania International - Standard
+rtp://233.32.36.39:7500/339
+#EXTINF:0,1 - Canal Algérie - Standard
+rtp://233.136.0.165:65000/4424
+#EXTINF:0,1 - Beur FM TV - Standard
+rtp://233.136.0.47:7500/47
 #EXTINF:0,1 - 2M Maroc - Standard
 rtp://233.136.0.164:65000/4208
 #EXTINF:0,1 - Al Aoula - Standard
 rtp://233.136.0.68:7500/68
 #EXTINF:0,1 - Arryadia - Standard
 rtp://233.136.0.89:7500/89
-#EXTINF:0,1 - Arrabiâ - Standard
-rtp://233.32.36.128:7500/3128
-#EXTINF:0,1 - Al Maghribia - Standard
-rtp://233.136.0.90:7500/90
 #EXTINF:0,1 - Assadissa - Standard
 rtp://233.32.36.129:7500/3129
-#EXTINF:0,1 - Echourouk TV - Standard
-rtp://233.60.197.117:7500/817
-#EXTINF:0,1 - Canal Algérie - Standard
-rtp://233.136.0.165:65000/4424
-#EXTINF:0,1 - Beur FM TV - Standard
-rtp://233.136.0.47:7500/47
-#EXTINF:0,1 - Ennahar TV - Standard
-rtp://233.60.197.118:7500/818
-#EXTINF:0,1 - Tunisia 1 - Standard
-rtp://233.136.0.166:65000/4425
-#EXTINF:0,1 - Hannibal TV - Standard
-rtp://233.60.197.26:7500/726
 #EXTINF:0,1 - El Hiwar Ettounsi - Standard
 rtp://233.136.44.58:7500/458
-#EXTINF:0,1 - Al Masriya - Standard
-rtp://233.136.0.88:7500/88
-#EXTINF:0,1 - Kuwait TV - Standard
-rtp://233.32.36.37:7500/337
-#EXTINF:0,1 - Jordan Satellite Channel - Standard
-rtp://233.32.36.38:7500/338
+#EXTINF:0,1 - Hannibal TV - Standard
+rtp://233.60.197.26:7500/726
+#EXTINF:0,1 - Tunisia 1 - Standard
+rtp://233.136.0.166:65000/4425
+#EXTINF:0,1 - ERE TV - Standard
+rtp://233.136.0.2:7500/2
+#EXTINF:0,1 - Al Maghribia - Standard
+rtp://233.136.0.90:7500/90
+#EXTINF:0,1 - Arrabiâ - Standard
+rtp://233.32.36.128:7500/3128
 #EXTINF:0,1 - Dubaï TV - Standard
 rtp://233.32.36.100:7500/3100
+#EXTINF:0,1 - Al Masriya - Standard
+rtp://233.136.0.88:7500/88
+#EXTINF:0,1 - Jordan Satellite Channel - Standard
+rtp://233.32.36.38:7500/338
+#EXTINF:0,1 - TRT Turk - Standard
+rtp://233.136.0.64:7500/64
 #EXTINF:0,1 - Vox Africa - Standard
 rtp://233.32.36.173:7500/3173
 #EXTINF:0,1 - 3A Telesud - Standard
 rtp://233.32.36.42:7500/342
-#EXTINF:0,1 - TRT Turk - Standard
-rtp://233.136.0.64:7500/64
-#EXTINF:0,1 - RTPI - Standard
-rtp://233.136.0.167:65000/4212
-#EXTINF:0,1 - Record News - Standard
-rtp://233.136.0.102:7500/102
-#EXTINF:0,1 - TVE - Standard
-rtp://233.136.0.73:7500/73
-#EXTINF:0,1 - 24h TVE - Standard
-rtp://233.136.0.87:7500/87
-#EXTINF:0,1 - ETB SAT - Standard
-rtp://233.32.36.82:7500/382
-#EXTINF:0,1 - Arte Allemand - Standard
-rtp://233.136.0.77:7500/77
-#EXTINF:0,1 - Antenne A - Standard
-rtp://233.32.36.135:7500/6135
-#EXTINF:0,1 - Golfe TV - Standard
-rtp://233.32.36.138:7500/3138
-#EXTINF:0,1 - Gabon 24 - Standard
-rtp://233.136.44.126:7500/126
-#EXTINF:0,1 - TV Romania International - Standard
-rtp://233.32.36.39:7500/339
-#EXTINF:0,1 - RTR Planeta - Standard
-rtp://233.136.0.69:7500/69
-#EXTINF:0,1 - Armenia TV - Standard
-rtp://233.32.36.150:7500/3150
-#EXTINF:0,1 - Armenia 1 - Standard
-rtp://233.32.36.151:7500/3151
-#EXTINF:0,1 - VTV 4 - Standard
-rtp://233.136.0.17:7500/17
-#EXTINF:0,1 - Net Viet - Standard
-rtp://233.60.197.48:7500/748
+#EXTINF:0,1 - CGTN-Documentary - Standard
+rtp://233.60.197.20:7500/720
+#EXTINF:0,1 - CGTN - Standard
+rtp://233.49.82.7:7500/207
+#EXTINF:0,1 - CGTN-Français - Standard
+rtp://233.136.0.3:7500/3
 #EXTINF:0,1 - NTD - Standard
 rtp://233.60.197.17:7500/717
-#EXTINF:0,1 - CCTV-F - Standard
-rtp://233.136.0.3:7500/3
-#EXTINF:0,1 - CCTV News - Standard
-rtp://233.49.82.7:7500/207
-#EXTINF:0,1 - CCTV-9 Documentary - Standard
-rtp://233.60.197.20:7500/720
-#EXTINF:0,1 - Zing - Standard
+#EXTINF:0,1 - E-TV - Standard
 rtp://233.32.36.152:7500/3152
-#EXTINF:0,1 - Jeux vidéo - Standard
-rtp://233.49.82.91:7500/291
-#EXTINF:0,1 - Dokéo TV - Standard
-rtp://233.32.36.96:7500/396
-#EXTINF:0,1 - L'actu Club Vidéo - Standard
-rtp://233.49.82.12:7500/212
+#EXTINF:0,1 - Net Viet - Standard
+rtp://233.60.197.48:7500/748
+#EXTINF:0,1 - Record News - Standard
+rtp://233.136.0.102:7500/102

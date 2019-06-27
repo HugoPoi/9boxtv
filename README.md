@@ -1,34 +1,39 @@
-#Reverse engineering Evolution SFR Sagem Box TV
+#  Reverse engineering Evolution SFR Sagem Box TV
 
-## getConfig
-`curl --config get_config.curl -o channels_list.xml`
+## Get the setup config of the box
 
-1. Identifiant de connexion à remplacer (La dernière fois que j'ai
-   testé avec de la merde et c'est passé)
-stbid XXXXXXXXXX et SN YYYYYYYYYY sur l'étiquette arrière de votre box
+1. Les identifiant `stbId` et `SN` sont sur l'étiquette arrière de votre box
+`ctoken` et `cnonce` sont généré par la box mais je n'ai pas cherché comment.
+Cependant j'ai pu constater que `stbId`, `SN`, `ctoken`, `cnonce` peuvent être
+remplacer par des valeurs arbitraire. Donc les config curl fournit
+fonctionne en l'état.
 
-2. Effectuer une première requête qui renvoi le `nonce` dans les headers
-HTTP
+1. Get a nonce `curl -v --config get_nonce.curl`
 
-3. Ensuite refaire la même requête avec le `nonce` injecté.
+1. You will get a 401 with a `WWW-Authenticate` header containing a
+   nonce.
+
+1. Replace in `get_config.curl` with the nonce provided
+
+1. `curl -v --config get_config.curl`
+
+## Script conversion playlist SFR
+
+`xsltproc generate_playlist.xslt setupResponse.xml > playlist_tv_sfr.m3u`
 
 ## firmware_request
+
 Contient le bootloader et le firmware récupéré grâce aux requêtes
 sur les serveurs de SFR
 
 Les requetes curl manque un token supplémentaire que je n'ai pu
 identifier.
 
-## Script conversion playlist SFR
-
-`xsltproc generate_playlist.xslt channels_list.xml > playlist_tv_sfr.m3u`
-
-
 ## TODO list
 
 * Décompacter le firmware, chiffré ?, le firmware est stocké sur de la
   flash samsung quel format ?
-* Trouver la clé / les clés de chiffrement AES?? des flux iptv, peut-être  stocké dans l'image firmware ?
+* Trouver la clé / les clés de chiffrement AES?? des flux iptv, a priori stocké dans le chipset de decodage video
 * Trouver des gens qui connaissent le fonctionnement du chiffrement IPTV
 * Plus d'update sur https://www.neufbox4.org/forum/viewtopic.php?pid=37650
 

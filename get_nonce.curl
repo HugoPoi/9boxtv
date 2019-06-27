@@ -1,0 +1,9 @@
+url = "http://rpc.stb.sfr.fr/Setup/getConfig/"
+user-agent = "libsetup/0.6.19 [SFR; SAGEM; 13.2.20]; c2203-4bel@sfr.fr"
+header = "Content-Type: text/xml"
+header = "Accept-Charset: iso-8859-1"
+header = "Accept: text/xml"
+header = "Authorization: Token stbId=\"XXXXXXXXXXXX\", sn=\"YYYYYYYYYYYYYYYYYYY\""
+data = @request_config.xml
+request = POST
+
