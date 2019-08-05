@@ -8,9 +8,9 @@ rtp://233.136.0.201:7500/201
 #EXTINF:0,1 - France 2 - Standard
 rtp://233.32.36.99:7500/4304
 #EXTINF:0,1 - France 3 - HD
-rtp://233.49.82.170:7500/371
+rtp://233.49.82.73:7500/366
 #EXTINF:0,1 - France 3 - Standard
-rtp://233.32.36.71:7500/371
+rtp://233.32.36.66:7500/366
 #EXTINF:0,1 - Canal+ - HD
 rtp://233.136.44.179:7500/4179
 #EXTINF:0,1 - Canal+ - Standard
@@ -47,6 +47,8 @@ rtp://233.49.82.66:7500/266
 rtp://233.136.0.218:7500/218
 #EXTINF:0,1 - NRJ12 - Standard
 rtp://233.60.197.45:7500/4214
+#EXTINF:0,1 - LCP - HD
+rtp://233.60.197.81:7500/781
 #EXTINF:0,1 - LCP - Standard
 rtp://233.49.82.46:7500/246
 #EXTINF:0,1 - France 4 - Fibre HD
@@ -109,6 +111,8 @@ rtp://233.60.197.28:7500/728
 rtp://233.49.82.159:7500/159
 #EXTINF:0,1 - i24 news - Standard
 rtp://233.136.0.20:7500/20
+#EXTINF:0,1 - Ushuaia TV - Standard
+rtp://233.32.36.170:7500/3170
 #EXTINF:0,1 - Chaines Locales - Standard
 rtp://233.136.44.67:7500/467
 #EXTINF:0,1 - RMC Sport 1 - Standard
@@ -139,10 +143,8 @@ rtp://233.32.36.170:7500/3170
 rtp://233.49.82.77:7500/8277
 #EXTINF:0,1 - Discovery Family - Standard
 rtp://233.136.0.49:7500/6049
-#EXTINF:0,1 - Discovery Investigation - HD
-rtp://233.49.82.179:7500/2179
 #EXTINF:0,1 - Discovery Investigation - Standard
-rtp://233.32.36.97:7500/397
+rtp://233.32.36.170:7500/3170
 #EXTINF:0,1 - My Cuisine - HD
 rtp://233.49.82.164:7500/164
 #EXTINF:0,1 - My Cuisine - Standard
@@ -163,10 +165,8 @@ rtp://233.136.0.20:7500/20
 rtp://233.32.36.170:7500/3170
 #EXTINF:0,1 - E! Entertainment - Standard
 rtp://233.32.36.160:7500/3160
-#EXTINF:0,1 - Discovery Investigation - HD
-rtp://233.49.82.179:7500/2179
 #EXTINF:0,1 - Discovery Investigation - Standard
-rtp://233.32.36.97:7500/397
+rtp://233.32.36.170:7500/3170
 #EXTINF:0,1 - Discovery Family - HD
 rtp://233.49.82.77:7500/8277
 #EXTINF:0,1 - Discovery Family - Standard
@@ -185,6 +185,8 @@ rtp://233.32.36.160:7500/3160
 rtp://233.32.36.160:7500/3160
 #EXTINF:0,1 - Game One - Standard
 rtp://233.136.0.146:65000/4120
+#EXTINF:0,1 - Game One+1 - HD
+rtp://233.60.197.77:7500/777
 #EXTINF:0,1 - Game One+1 - Standard
 rtp://233.60.197.114:7500/814
 #EXTINF:0,1 - J-One - HD
@@ -249,6 +251,8 @@ rtp://233.49.82.4:7500/1204
 rtp://233.32.36.183:7500/3183
 #EXTINF:0,1 - franceinfo: - Standard
 rtp://233.60.197.28:7500/728
+#EXTINF:0,1 - LCP - HD
+rtp://233.60.197.81:7500/781
 #EXTINF:0,1 - LCP - Standard
 rtp://233.49.82.46:7500/246
 #EXTINF:0,1 - LCP-AN 24/24 - Standard
@@ -377,6 +381,8 @@ rtp://233.60.197.3:7500/703
 rtp://233.32.36.170:7500/3170
 #EXTINF:0,1 - TREK - Standard
 rtp://233.32.36.170:7500/3170
+#EXTINF:0,1 - Espace Decouverte - Standard
+rtp://233.60.197.103:7500/7103
 #EXTINF:0,1 - Histoire - Standard
 rtp://233.32.36.170:7500/3170
 #EXTINF:0,1 - Toute l'Histoire - Standard
@@ -434,17 +440,15 @@ rtp://233.136.0.181:65000/4404
 #EXTINF:0,1 - CANAL J - Standard
 rtp://233.136.44.113:7500/113
 #EXTINF:0,1 - Cartoon Network - Standard
-rtp://233.136.44.55:7500/5170
+rtp://233.32.36.160:7500/3160
 #EXTINF:0,1 - Nickelodeon Teen - HD
 rtp://233.136.44.136:7500/136
 #EXTINF:0,1 - Nickelodeon Teen - Standard
 rtp://233.136.0.24:7500/8221
 #EXTINF:0,1 - Boing - Standard
 rtp://233.60.197.154:65000/4105
-#EXTINF:0,1 - TOONAMI - HD
-rtp://233.49.82.166:7500/166
 #EXTINF:0,1 - TOONAMI - Standard
-rtp://233.136.44.111:7500/111
+rtp://233.136.44.113:7500/113
 #EXTINF:0,1 - L'actu des jeux vidéo - Standard
 rtp://233.49.82.91:7500/291
 #EXTINF:0,1 - Mangas - Standard
@@ -531,8 +535,6 @@ rtp://233.136.44.53:7500/4453
 rtp://233.136.44.53:7500/4453
 #EXTINF:0,1 - RMC Sport Live 16 - Standard
 rtp://233.136.44.53:7500/4453
-#EXTINF:0,1 - Jeux vidéo - Standard
-rtp://233.49.82.91:7500/291
 #EXTINF:0,1 - France 3 - Fibre HD
 rtp://233.136.0.200:7500/200
 #EXTINF:0,1 - France 3 - Standard
